@@ -1,4 +1,177 @@
-Copyright (c) 2026. All rights reserved.
+UAB — UNIVERSAL AUTONOMY BOUNDARY
+PROPRIETARY SOFTWARE LICENSE
+Version 1.0
 
-This repository is a prototype supplied for evaluation. Replace this file
-with the commercial/open-source license selected for the product before distribution.
+Copyright (c) 2026 KGSTUDIO.
+All rights reserved.
+
+IMPORTANT — READ CAREFULLY
+
+This software, including without limitation its source code, object code,
+architecture, algorithms, runtime mechanisms, evaluation logic, policies,
+documentation, interfaces, tests, benchmarks, configuration files, and all
+associated materials (collectively, the "Software"), is proprietary
+intellectual property of KGSTUDIO.
+
+No rights are granted except as expressly stated in this License.
+
+1. OWNERSHIP
+
+All right, title, and interest in and to the Software, including all
+applicable intellectual property rights therein, are retained by KGSTUDIO
+(the "Copyright Holder").
+
+Possession of, access to, or availability of the Software or its source code
+does not transfer ownership and does not constitute a grant of intellectual
+property rights.
+
+2. LIMITED PERMISSION
+
+Permission is granted to download, inspect, and evaluate the Software solely
+for personal or internal, non-production evaluation purposes.
+
+This permission is non-exclusive, non-transferable, non-sublicensable, and
+revocable.
+
+No other use is authorized without prior written permission from KGSTUDIO.
+
+3. RESTRICTIONS
+
+Except where expressly authorized in writing by KGSTUDIO or required by
+applicable law, you may not:
+
+(a) use the Software in production or provide services based on the Software;
+
+(b) use the Software for commercial purposes;
+
+(c) copy, reproduce, republish, distribute, sell, rent, lease, sublicense,
+    license, transfer, assign, or otherwise make the Software available to
+    another person or entity;
+
+(d) modify, adapt, translate, transform, or create derivative works based
+    upon the Software;
+
+(e) incorporate the Software, in whole or in part, into another product,
+    service, platform, library, framework, model runtime, or commercial
+    offering;
+
+(f) remove, obscure, alter, or replace copyright notices, licensing notices,
+    attribution notices, proprietary markings, or other notices contained
+    in the Software;
+
+(g) represent the Software, or a modified or derived version of it, as your
+    own original technology;
+
+(h) use the Software or its source code to create, train, develop, benchmark,
+    or improve a substantially similar or competing implementation whose
+    purpose is to reproduce the protected implementation of the Software;
+
+(i) circumvent, disable, bypass, or interfere with licensing, authorization,
+    security, integrity, audit, policy-enforcement, or access-control
+    mechanisms included in the Software.
+
+4. SOURCE CODE AVAILABILITY
+
+Publication or public accessibility of the source code does not make the
+Software open source and does not waive any rights of KGSTUDIO.
+
+The Software may be source-available while remaining proprietary.
+
+No license is granted merely because the Software can be viewed, downloaded,
+forked, cloned, or otherwise technically accessed.
+
+5. FORKS AND DERIVATIVE WORKS
+
+Public or private forks, modified versions, derivative works, ports, and
+redistributions are prohibited except with prior written authorization from
+KGSTUDIO.
+
+Technical functionality provided by a source hosting platform, including
+forking or cloning functionality, does not itself grant permission under
+this License.
+
+6. COMMERCIAL LICENSING
+
+Production use, commercial use, redistribution, integration into commercial
+products or services, sublicensing, OEM use, hosted offerings, managed
+services, and other exploitation beyond the limited evaluation permission
+require a separate written commercial license from KGSTUDIO.
+
+Commercial licensing terms may be made available separately by KGSTUDIO.
+
+7. NO TRADEMARK LICENSE
+
+This License does not grant permission to use any trademark, trade name,
+service mark, logo, product name, or branding associated with UAB or
+KGSTUDIO except as strictly necessary to identify the Software accurately.
+
+8. CONTRIBUTIONS
+
+No contribution, modification, patch, pull request, suggestion, or other
+submission transfers ownership of the Software.
+
+Unless a separate written agreement states otherwise, acceptance of a
+contribution does not grant the contributor ownership of the Software or
+rights beyond those expressly granted under this License.
+
+9. THIRD-PARTY COMPONENTS
+
+Third-party software, libraries, dependencies, or other materials included
+with or used by the Software remain subject to their respective licenses.
+
+Nothing in this License restricts rights independently granted under an
+applicable third-party license.
+
+10. TERMINATION
+
+Any rights granted under this License terminate automatically upon violation
+of its terms.
+
+Upon termination, all unauthorized use of the Software must cease and all
+copies made under the terminated permission must be deleted, except where
+retention is required by applicable law.
+
+Termination does not limit any rights or remedies otherwise available to
+KGSTUDIO.
+
+11. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY,
+RELIABILITY, OR FITNESS FOR PRODUCTION USE.
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, KGSTUDIO SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE OR
+ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+13. NO IMPLIED RIGHTS
+
+No patent, copyright, trademark, trade-secret, database, or other
+intellectual-property license is granted by implication, estoppel, or
+otherwise.
+
+All rights not expressly granted are reserved by KGSTUDIO.
+
+14. SEPARATE AGREEMENTS
+
+A separate written agreement executed by KGSTUDIO may grant additional
+rights and, where expressly stated, supersede conflicting terms of this
+License for the parties to that agreement.
+
+15. SEVERABILITY
+
+If any provision of this License is held invalid or unenforceable, the
+remaining provisions shall remain in effect to the maximum extent permitted
+by applicable law.
+
+16. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this License are reserved by
+KGSTUDIO.
+
+Copyright (c) 2026 KGSTUDIO.
+All rights reserved.
