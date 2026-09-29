@@ -1,0 +1,23 @@
+{
+  "name": "uab-monorepo",
+  "version": "0.3.1",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "npm run build -w @uab/core && npm run build -w @uab/sdk && npm run build -w @uab/benchmark && npm run build -w @uab/api",
+    "test": "npm run test -w @uab/core && npm run test -w @uab/benchmark",
+    "benchmark": "node packages/benchmark/dist/src/run.js",
+    "corpus": "node packages/benchmark/dist/src/corpus.js",
+    "load": "node packages/benchmark/dist/src/load.js",
+    "chaos": "node packages/benchmark/dist/src/chaos.js",
+    "api": "node apps/api/dist/server.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.6.3"
+  }
+}

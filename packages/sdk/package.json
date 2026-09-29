@@ -1,0 +1,13 @@
+{
+  "name": "@uab/sdk",
+  "version": "0.3.1",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@uab/core": "0.3.1"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  }
+}

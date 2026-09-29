@@ -1,0 +1,12 @@
+{
+  "name": "@uab/benchmark",
+  "version": "0.3.1",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test dist/test/*.test.js"
+  },
+  "dependencies": {
+    "@uab/core": "0.3.1"
+  }
+}
